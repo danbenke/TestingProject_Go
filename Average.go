@@ -5,6 +5,6 @@ func Average(xs []float64) float64 {
 	for _, x := range xs {
 //		total += x
 	}
-	ret := total / float64(len(xs))
+//	ret := total / float64(len(xs))
 	return ret
 }
